@@ -8,7 +8,7 @@
     <label for="usuario">Ingresar correo electronico : </label>
     <input type="email" name="usuario" placeholder="Ingresar el correo"><br><br>
     <label for="clave">Ingresar contraseña : </label>
-    <input type="password" name="clave" placeholder="Ingresar la contraseña"><br><br>
+    <input type="password" name="clave" placeholder="Ingresar la contraseña pipipi"><br><br>
     <input type="submit" value="Ingresar" name="ingresando"><br>
     </form>
     <form action="pagina1.php" method="POST">
